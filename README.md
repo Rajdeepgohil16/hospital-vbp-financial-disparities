@@ -255,7 +255,7 @@ The project uses robust methods where assumptions are imperfect, especially for 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/hospital-vbp-financial-disparities.git
+git clone https://github.com/Rajdeepgohil16/hospital-vbp-financial-disparities.git
 cd hospital-vbp-financial-disparities
 ```
 
